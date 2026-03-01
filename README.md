@@ -1,5 +1,8 @@
 <img src="banner.jpeg" width="100%" />
-# Nithin Chakravarthi Bandi
+
+
+
+# Nithin Chakravarthi Bandi Naga
 
 Master of Engineering in Computer Science  
 University of Cincinnati  
