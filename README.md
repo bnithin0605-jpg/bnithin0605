@@ -11,6 +11,20 @@ Former AI/ML Intern @ Mobius Networks
 Former Research Intern @ IERDC (Embedded & IoT Systems) 
 
 ---
+## Core Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,arduino,js,nodejs,react,flask,fastapi,tensorflow,mysql,mongodb,docker,aws,linux" />
+</p>
+
+## Certifications
+
+- AWS Solutions Architect – Associate (SAA)
+- TensorFlow Developer Certificate
+- Red Hat Enterprise Application Developer (EX-183)
+- Azure AZ-900 | AI-900
+- AWS Cloud Practitioner
+
 
 ## About Me
 
@@ -66,15 +80,19 @@ AWS, Docker, Kubernetes, PostgreSQL, MongoDB, CockroachDB, Neo4j, Linux/Unix
 ## Previous Experience
 
 ### AI/ML Intern – Mobius Networks
-Designed core components of an Agent Orchestration Framework (AOF) to automate multi-step AI workflows across internal company tools.
+- Designed core components of an Agent Orchestration Framework (AOF) to automate multi-step AI workflows across internal company tools.
+- Built Flowise-based orchestration layers and scalable APIs supporting agent-driven systems in production environments.
 
-Built Flowise-based orchestration layers and scalable APIs supporting agent-driven systems in production environments.
+### Research Intern – IERDC  
+Engineered and deployed embedded hardware and IoT-based communication systems across telecommunications, smart infrastructure, and security domains. Contributed to end-to-end system design — from circuit-level implementation to backend integration and real-world deployment.
 
-### Research Intern – IERDC
-Engineered embedded and IoT systems across telecommunications and smart infrastructure projects.
-
-Built a WiFi-based public addressing system broadcasting real-time audio to 200+ ESP32 nodes with 99.9% uptime.
-
+- Designed and implemented a WiFi-based Public Addressing System broadcasting real-time audio to **200+ ESP32 nodes** with sustained **99.9% uptime**.
+- Developed embedded security systems integrating **GSM, RFID, LDR sensors, ultrasonic modules, and microcontrollers**.
+- Built full-stack monitoring dashboards using **PHP/MySQL** for real-time device tracking, logging, and administrative control.
+- Designed custom microcontroller-based hardware solutions for institutional-scale deployments.
+- Integrated firmware, communication protocols, and backend APIs for distributed IoT systems.
+- Worked across hardware-software co-design, power optimization, and real-time signal processing.
+- Delivered production-ready embedded solutions deployed in real-world environments.
 ---
 
 ## Interests
